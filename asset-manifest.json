@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-battle-of-britain-commando/static/css/main.799e85e5.css",
+    "main.js": "/react-battle-of-britain-commando/static/js/main.bdd5fa29.js",
+    "static/js/453.6c2b6896.chunk.js": "/react-battle-of-britain-commando/static/js/453.6c2b6896.chunk.js",
+    "index.html": "/react-battle-of-britain-commando/index.html",
+    "main.799e85e5.css.map": "/react-battle-of-britain-commando/static/css/main.799e85e5.css.map",
+    "main.bdd5fa29.js.map": "/react-battle-of-britain-commando/static/js/main.bdd5fa29.js.map",
+    "453.6c2b6896.chunk.js.map": "/react-battle-of-britain-commando/static/js/453.6c2b6896.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.bdd5fa29.js"
+  ]
+}
